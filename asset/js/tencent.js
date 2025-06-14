@@ -27,7 +27,7 @@ $smfile.fileinput({
     // removeLabel: "清除",
     uploadClass: "btn btn-info",
     // uploadLabel: "上传",
-    dropZoneTitle: "拖拽文件到这里<br>或将屏幕截图复制并粘贴到此处<br>支持多文件同时上传…",
+    dropZoneTitle: "Drag files here<br>or copy and paste a screenshot into this area<br>Multiple files upload supported…",
     // showPreview: false
     // showPreview: false,
 })
